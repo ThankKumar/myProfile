@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/myProfile/static/css/main.fe299e2a.css",
+    "main.js": "/myProfile/static/js/main.2af4afbb.js",
+    "static/media/ecommerce.png": "/myProfile/static/media/ecommerce.46a65ab4e72371c46533.png",
+    "static/media/eduknox.png": "/myProfile/static/media/eduknox.45c003b3e42fc71b48d0.png",
+    "static/media/profile3.jpg": "/myProfile/static/media/profile3.45c003b3e42fc71b48d0.jpg",
+    "static/media/reactr.png": "/myProfile/static/media/reactr.aceeaeb3f422978f80ab.png",
+    "static/media/Rob.jpg": "/myProfile/static/media/Rob.69ebf1a72b4d7316d25e.jpg",
+    "static/media/MyPhoto.png": "/myProfile/static/media/MyPhoto.d0b89020e3a5e253a32b.png",
+    "static/media/resume.pdf": "/myProfile/static/media/resume.fc5317a0df9dce7980f6.pdf",
+    "static/media/hoc.png": "/myProfile/static/media/hoc.e7f9ff2e68481724c7b7.png",
+    "static/media/foody.png": "/myProfile/static/media/foody.764dc205a173ef12a703.png",
+    "static/media/glassesimoji.png": "/myProfile/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/profile1.jpg": "/myProfile/static/media/profile1.177ee6d14d215827abaa.jpg",
+    "static/media/profile2.jpg": "/myProfile/static/media/profile2.448904db012ac5245273.jpg",
+    "static/media/thumbup.png": "/myProfile/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/myProfile/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/myProfile/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/protrainy.png": "/myProfile/static/media/protrainy.df1bcae40ee12d9cd397.png",
+    "static/media/wave.png": "/myProfile/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/myProfile/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/myProfile/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/myProfile/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/myProfile/index.html",
+    "main.fe299e2a.css.map": "/myProfile/static/css/main.fe299e2a.css.map",
+    "main.2af4afbb.js.map": "/myProfile/static/js/main.2af4afbb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe299e2a.css",
+    "static/js/main.2af4afbb.js"
+  ]
+}
